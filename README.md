@@ -1,4 +1,4 @@
-# prier intento de interfaz gráfica con slider
+# primer intento de interfaz gráfica con slider
 Una interfaz grafica que tendrá:<br />
 -cuatro imagenes creadas a partir del codigo de java<br />
 -un slider que modificará el tamaño de las cuatro imágenes<br />
