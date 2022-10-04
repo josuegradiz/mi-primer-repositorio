@@ -6,6 +6,3 @@ Una interfaz grafica que tendrá:<br />
 <br />
 NOTA<br />
 para encontrar las clases se debe entrar a la carpeta interfaz gráfica y despues a la carpeta src 
-<br />
-link para acceder al repositorio de git:
-<br />
